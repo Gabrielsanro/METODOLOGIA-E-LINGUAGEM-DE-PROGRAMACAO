@@ -3,7 +3,7 @@ class Aluno {
     private double nota2;
     private double media;
 
-    //Getters and Setters
+   
     public double getNota1() {
         return nota1;
     }
